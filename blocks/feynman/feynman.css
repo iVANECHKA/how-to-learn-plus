@@ -1,0 +1,10 @@
+.feynman {
+  height: 890px;
+  background-color: #f2f2f2;
+  background: left 0px bottom 0px no-repeat url(../../images/feynman.png) #f2f2f2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Inter', 'Arial', sans-serif;
+  position: relative;
+}

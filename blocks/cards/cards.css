@@ -1,0 +1,7 @@
+.cards {
+  display: flex;
+  width: 920px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  font-family: 'Inter', 'Arial', sans-serif;
+}
