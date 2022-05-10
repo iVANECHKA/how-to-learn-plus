@@ -1,16 +1,12 @@
 .footer__column-link {
-  display: list-item;
   line-height: 18px;
   font-size: 18px;
   font-weight: 400;
   text-decoration: none;
   color: white;
-  margin-bottom: 10px;
   transition: .2s;
-}
-
-.footer__column-link:last-child {
-  margin-bottom: 16px;
+  color: white;
+  text-decoration: none;
 }
 
 .footer__column-link:hover {
